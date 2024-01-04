@@ -1,0 +1,10 @@
+myenv/
+*.ipynb
+*.tif
+*.shp
+*.shx
+*.cpg
+*.csv
+*.dbf
+*.prj
+*.rtf
